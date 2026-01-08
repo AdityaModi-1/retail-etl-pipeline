@@ -1,0 +1,6 @@
+Transaction_ID,Product_Info,Price,Transaction_Date,Store_Location
+TXN_001,Tshirt-Red-M,19.99,01/05/2026,Anaheim_001
+TXN_002,Jeans-Blue-32,49.99,2026-01-06,Chino_002
+TXN_003,Hoodie-Black-L,35.0,"Jan 07, 2026",Irvine_003
+TXN_004,Tshirt-White-S,-19.99,01/08/2026,Anaheim_001
+TXN_005,Socks-White-OneSize,9.99,01/09/2026,Chino_002
