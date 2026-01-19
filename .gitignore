@@ -1,0 +1,12 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+backend/venv
+backend/*.csv
+
+# Ignore React junk
+frontend/node_modules/
+frontend/build/
